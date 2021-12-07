@@ -1,7 +1,4 @@
 node_modules/
-public/
 src/images/
 .directory
 .eslintcache
-package-lock.json
-package.json
